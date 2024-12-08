@@ -1,0 +1,15 @@
+{
+  "name": "joke-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ethan Suda",
+  "license": "ISC",
+  "description": "Joke API Assignment",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
